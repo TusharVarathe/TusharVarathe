@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Tushar+%F0%9F%91%8B;Full-Stack+Developer;I+build+clean%2C+performant+web+apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Tushar+%F0%9F%91%8B;Full-Stack+Developer" alt="Typing SVG" />
 
 <!-- Badges -->
 <a href="https://github.com/TusharVarathe">
